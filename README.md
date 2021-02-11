@@ -2,6 +2,6 @@
 
 ## Darkmoon Races (Year of the Phoenix)
 
-* [Leader of Men](darkmoonRaces/leaderOfMen) <[Kevin Wells](kevin@wells-family.xyz)>
-* [Elementalist](darkmoonRaces/elementalist) <[Christopher LeHew](christopher.lehew@bokf.com)>
-* [Shattered](darkmoonRaces/shattered) <[Christopher LeHew](christopher.lehew@bokf.com)>
+* [Leader of Men](darkmoonRaces/leaderOfMen) <[Kevin Wells](mailto:kevin@wells-family.xyz)>
+* [Elementalist](darkmoonRaces/elementalist) <[Christopher LeHew](mailto:christopher.lehew@bokf.com)>
+* [Shattered](darkmoonRaces/shattered) <[Christopher LeHew](mailto:christopher.lehew@bokf.com)>
